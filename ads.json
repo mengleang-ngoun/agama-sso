@@ -1,1 +1,13 @@
-{}
+{
+    "2fa": {
+        "projectName": "2fa",
+        "description": "2fa",
+        "type": "community",
+        "author": "mengleang-ngoun",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/mengleang-ngoun/agama-sso",
+        "githubUri": "https://github.com/mengleang-ngoun/agama-sso",
+        "license": "MIT",
+        "lastUpdated": "1685613484341"
+    }
+}
