@@ -9,5 +9,19 @@
         "githubUri": "https://github.com/mengleang-ngoun/agama-sso",
         "license": "MIT",
         "lastUpdated": "1685613484341"
+    },
+    "multi_step": {
+        "projectName": "multi_step",
+        "description": "multi_step",
+        "type": "community",
+        "author": "mengleang-ngoun",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/mengleang-ngoun/agama-sso",
+        "githubUri": "https://github.com/mengleang-ngoun/agama-sso",
+        "license": "MIT",
+        "lastUpdated": "1688107451204",
+        "tags": [
+            "authentication"
+        ]
     }
 }
